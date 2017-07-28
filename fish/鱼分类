@@ -1,0 +1,19 @@
+读分鱼文章有感
+
+首先，鱼类分类的难点主要是拍摄照片质量不高，分辨率低，鱼所占的图片比例太小，所以我们一个解决方案就是实现鱼的自我检测和分割。
+轮廓分割，线分割
+难点主要是数据遗失和error的逐步增强，采用分层的结构可以减小这种error的影响。
+
+首先优化初始化的方式，准确定位到鱼所在的位置
+
+P X S
+part model
+location
+size of parts
+
+
+1.fitness
+2.separation
+3.discrimination
+
+J (P, X, S) = J f it ness + J separat ion + J discrimination

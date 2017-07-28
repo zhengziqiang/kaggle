@@ -1,0 +1,31 @@
+　１．Albacore tuna,
+ ２．Bigeye tuna,
+ ３．Yellowfin tuna,
+ ４．Mahi Mahi, 
+　５．Opah,
+ ６．Sharks,
+ ７．Other (meaning that there are fish present but not in the above categories)
+　８．No Fish (meaning that no fish is in the picture)
+
+　　Each image has only one fish category
+
+File descriptions
+train.zip - zipped folder of all train images. The train folders are organized by fish species labels.
+test_stg1.zip - zipped folder of all test images in stage 1
+test_stg2.zip - zipped folder of all test images in stage 2 (not available until the second stage of the competition)
+sample_submission_stg1.csv - a sample submission file in the correct format
+sample_submission_stg2.csv - a sample submission file in the correct format (not available until the second stage of the competition)
+
+
+
+Code Sharing With Kaggle Kernels
+１．Exploring Survival on the Titanic: Data exploration + visualizations and a random forest benchmark model. Great example of how to present your data science work using R Markdown.
+２．Random Forest Benchmark (R): Basic random forest model for you to build on and submit. 
+３．A Journey Through Titanic: Nicely scripted data exploration and benchmark model in Python.
+４．Decision Tree Visualization and Submission: Benchmark model in R with a nice example of a decision tree visualization.
+
+
+Submission Limits
+
+You may submit a maximum of 5 entries per day.
+You may select up to 2 final submissions for judging.
